@@ -1,0 +1,11 @@
+# Archivos compilados de IntelliJ
+out/
+*.class
+
+# Configuración local de IntelliJ (específica de cada equipo)
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
